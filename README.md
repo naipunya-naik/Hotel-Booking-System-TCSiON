@@ -1,1 +1,2 @@
 # Hotel-Booking-System-TCSiON
+The aim of the Project is to create an Online Hotel Booking System. To create three modules, Admin , Agent Login, Customer Login. Create Different sub-modules Booking, Customer Services, Hotel Information, Payment, FAQ etc. To create different databases and connect the database with application program. Testing the configuration on IDE and cloud. User friendly Booking and cancellation.
